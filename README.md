@@ -46,7 +46,7 @@ Project timeline: 2023.07-2023.11
 ## Link to Stakeholder Analysis (Pending)
 ## [Link to Project Client Map(pending and example)](https://miro.com/app/board/uXjVMfkcOEk=/)
 ## [Link to Meeting Minutes](https://docs.google.com/document/d/1eFOH073lsJKpBNkjCkdVotgen6hDgK0o/edit)
-## [Links to Team Charter](https://docs.google.com/document/d/1I5LZwnmgUVCRYYSPBkaznQzCqvFD1-fk/edit)
+## [Links to Team Charter](https://docs.google.com/document/d/1eFOH073lsJKpBNkjCkdVotgen6hDgK0o/edit)
 ## [Links to Decision Log](https://docs.google.com/spreadsheets/d/1p-F-NeYhUXYOEVuqIj09LWQULxuGAvuY/edit#gid=1408635962)
 ## [Link to Project Gantt Chart](https://docs.google.com/spreadsheets/d/1Xgt_FQqXLe4DtIXB7El_SP4wM-J_FE-I/edit#gid=542302743)
 ## [Link to Risk Management](https://docs.google.com/spreadsheets/d/1oPN_J-Vbq1--OqzmaIG4iO_LGeKn2n_5/edit#gid=187958210)
