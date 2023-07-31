@@ -9,7 +9,7 @@ https://github.com/kyechan99/capsule-render#fontcolor）
 Content
 
 ## Project Objectives
-Content
+
 ## General
 
 Client Name: Ilea Buffier
