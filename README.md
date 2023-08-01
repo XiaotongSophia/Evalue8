@@ -13,6 +13,7 @@ In response to mounting decarbonization pressure, Evalue8 has partnered with the
 ## Project Objectives
 
 Our current project involves creating a user-friendly "PACT front-end page" in the client's app, enabling seamless interaction with PACT functionality. The main objectives include enhancing emission transparency, integrating PACT standards, offering subscription-based access, implementing robust back-end calculations, integrating PACT API, improving reporting and data formatting, and enhancing overall UI/UX.
+![29a69866c20395bfb46e42329386d63](https://github.com/XiaotongSophia/Evalue8/assets/126891685/6170cb7f-b50d-409a-a994-70d6c7e3ea2e)
 
 ## General
 
