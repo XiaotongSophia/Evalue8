@@ -46,7 +46,7 @@ Project timeline: 2023.07-2023.11
 ## [Link to Code of Evalue8](https://github.com/orgs/Evalue8-Sustainability/dashboard)
 ## [Link to PACT Specifications](https://wbcsd.github.io/data-exchange-protocol/v2/#intro)
 ## [Link to PACT Website](https://www.carbon-transparency.com/)
-## [Link to Task Tracking](Trello or Jira pending)
+## [Link to Task Tracking](https://trello.com/b/NYl3iEmt/evalue8-sustainability)
 ## Link to Stakeholder Analysis (Pending)
 ## [Link to Project Client Map(pending and example)](https://miro.com/app/board/uXjVMfkcOEk=/)
 ## [Link to Meeting Minutes](https://drive.google.com/drive/u/1/folders/1ctvU13n61oRxL0zsmKxK7KGjFT_OAexA)
