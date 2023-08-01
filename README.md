@@ -9,14 +9,14 @@ https://github.com/kyechan99/capsule-render#fontcolor）
 Evalue8 Sustainability passionately promotes sustainable practices worldwide. Its core mission empowers businesses, governments, and communities to adopt sustainability principles for economic growth, social equity, and environmental preservation. Evalue8 envisions a world where sustainability seamlessly integrates into every aspect of life, ensuring a thriving planet for future generations.
 
 In response to mounting decarbonization pressure, Evalue8 has partnered with the innovative initiative, Partnership for Carbon Transparency (PACT). This collaboration harmonizes product carbon emissions calculation and enables effortless data sharing through an open technology infrastructure.
-
+![b456813ca3c70f862dcbcd0fcd7f108](https://github.com/XiaotongSophia/Evalue8/assets/126891685/79e4df2b-b97a-42da-bfee-ef4a41c84e66)
 ## Project Objectives
 
 Our current project involves creating a user-friendly "PACT front-end page" in the client's app, enabling seamless interaction with PACT functionality. The main objectives include enhancing emission transparency, integrating PACT standards, offering subscription-based access, implementing robust back-end calculations, integrating PACT API, improving reporting and data formatting, and enhancing overall UI/UX.
 <p align="center">
   <img src="[http://some_place.com/image.png](https://github.com/XiaotongSophia/Evalue8/assets/126891685/79e4df2b-b97a-42da-bfee-ef4a41c84e66)" />
 </p>
-![b456813ca3c70f862dcbcd0fcd7f108](https://github.com/XiaotongSophia/Evalue8/assets/126891685/79e4df2b-b97a-42da-bfee-ef4a41c84e66)
+
 
 
 ## General
