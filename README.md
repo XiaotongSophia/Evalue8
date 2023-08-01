@@ -49,7 +49,7 @@ Project timeline: 2023.07-2023.11
 ## [Link to Task Tracking](Trello or Jira pending)
 ## Link to Stakeholder Analysis (Pending)
 ## [Link to Project Client Map(pending and example)](https://miro.com/app/board/uXjVMfkcOEk=/)
-## [Link to Meeting Minutes](https://docs.google.com/document/d/1eFOH073lsJKpBNkjCkdVotgen6hDgK0o/edit)
+## [Link to Meeting Minutes](https://drive.google.com/drive/u/1/folders/1ctvU13n61oRxL0zsmKxK7KGjFT_OAexA)
 ## [Links to Team Charter](https://docs.google.com/document/d/1eFOH073lsJKpBNkjCkdVotgen6hDgK0o/edit)
 ## [Links to Decision Log](https://docs.google.com/spreadsheets/d/1p-F-NeYhUXYOEVuqIj09LWQULxuGAvuY/edit#gid=1408635962)
 ## [Link to Project Gantt Chart](https://docs.google.com/spreadsheets/d/1Xgt_FQqXLe4DtIXB7El_SP4wM-J_FE-I/edit#gid=542302743)
