@@ -35,6 +35,7 @@ Project timeline: 2023.07-2023.11
 | Ahmed Mousawi	| u7112358 |
 | Ping Zhang	| u7349032 |
 | Weichai Zhang | u7574256 |
+| Andrew Carse | u6666440 |
 
 ## Meeting Time
 | Date | Type |
