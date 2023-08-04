@@ -47,7 +47,7 @@ Project timeline: 2023.07-2023.11
 ## Link to Statement of Work (Pending)
 ## Link to IP Agreement (Pending)
 ## [Link to Website and Application of Evalue8](https://evalue8.net/)
-## [Link to Code of Evalue8](https://github.com/orgs/Evalue8-Sustainability/dashboard)
+## [Link to Code of Evalue8(Private)](https://github.com/orgs/Evalue8-Sustainability/dashboard)
 ## [Link to PACT Specifications](https://wbcsd.github.io/data-exchange-protocol/v2/#intro)
 ## [Link to PACT Website](https://www.carbon-transparency.com/)
 ## [Link to Task Tracking](https://trello.com/b/NYl3iEmt/evalue8-sustainability)
