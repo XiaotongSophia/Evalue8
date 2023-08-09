@@ -42,7 +42,7 @@ Project timeline: 2023.07-2023.11
 |------|-------------- |
 | Friday 13:00 - 15:00 | Tutorial Meeting |
 | Tuesday 15:00 - 16:00| Client Meeting|
-| Friday 15:00 - 17:00| Team Meeting|
+| Tuesday 20:30 - 21:30| Team Meeting|
 
 ## Link to Code (Pending)
 ## Link to Statement of Work (Pending)
