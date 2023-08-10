@@ -65,7 +65,7 @@ In addition, we are using [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustain
 
 # Documentation
 ### Statement of Work (Pending)
-### IP Agreement (Pending)
+
 
 # Showcase
 ### Link to Code (Pending)
