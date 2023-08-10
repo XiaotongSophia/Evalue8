@@ -46,13 +46,8 @@ Semester 2, 2023 (2023. 7 - 2023. 11)
 # Project Planning
 ### Project Client Map
 <p align="center">
-<img width="800"  src="https://github.com/weichai1201/Image/blob/main/Screen%20Shot%202023-08-11%20at%202.10.05%20am.png">
-</p>
-<p align="center">
 <img width="800"  src="https://github.com/weichai1201/Image/blob/main/Screen%20Shot%202023-08-11%20at%202.10.13%20am.png">
 </p>
-
-[Problematisation Output Link](https://docs.google.com/document/d/1S0SkW08_aP9Yo90WnPZMvn8vCCa9PNsPTAktCqKI9SU/edit)
 
 ### Stakeholder Analysis 
 <p align="center">
