@@ -31,7 +31,7 @@ Semester 2, 2023 (2023. 7 - 2023. 11)
 |------|-------------- |-------|
 | June Hong | u6468401 |Spokesperson|
 | Liangyu Zuo | u6089294 |Spokesperson|
-| Xiaotong Wang	| u6169092 |Resource person, Facilitator & Information officer|
+| Xiaotong Wang	| u6169092 |Facilitator & Information officer|
 | Ahmed Mousawi	| u7112358 ||
 | Ping Zhang	| u7349032 ||
 | Weichai Zhang | u7574256 ||
