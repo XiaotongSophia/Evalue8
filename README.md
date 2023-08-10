@@ -3,18 +3,17 @@
 https://github.com/kyechan99/capsule-render#fontcolor）
 -->
 
-
-# Project Overview
-
-## Project Objectives
-Our project currently has the primary objective to increase the responsiveness of the front end of the Evalue8 website. Responsiveness in the context of web development means that the website should change to meet the user's environment (e.g. orientation, operating system, and size of the screen) and behaviour (highlighted button presses). However, due to our team's lack of experience in front end development we will need to upskill ourselves before we can work on the code itself. As such, we endeavour to learn the skills: Javascript, React, CSS, etc. 
-
-Additionally, we have discussed improving Evalue8’s ‘weekly report’ generation software. This is an optional objective which depends on if we have enough time.
-
 ## Our Client
 [Evalue8 Sustainability](https://evalue8.net/) passionately promotes sustainable practices worldwide. Its core mission empowers businesses, governments, and communities to adopt sustainability principles for economic growth, social equity, and environmental preservation. Evalue8 envisions a world where sustainability seamlessly integrates into every aspect of life, ensuring a thriving planet for future generations.
 
 In response to mounting decarbonization pressure, Evalue8 has partnered with the innovative initiative, [Partnership for Carbon Transparency (PACT)](https://www.carbon-transparency.com/). This collaboration harmonizes product carbon emissions calculation and enables effortless data sharing through an open technology infrastructure.
+
+# Project Overview
+
+## Project Objectives
+Our project currently has the primary objective to increase the responsiveness of the front end of the Evalue8 website. Responsiveness in the context of web development means that the website should change to meet the user's environment (e.g. orientation, operating system, and size of the screen) and behavior (highlighted button presses). However, due to our team's lack of experience in front-end development, we will need to upskill ourselves before we can work on the code itself. As such, we endeavor to learn the skills: Javascript, React, CSS, etc. 
+
+Additionally, we have discussed improving Evalue8’s ‘weekly report’ generation software. This is an optional objective that depends on if we have enough time.
 
 <p align="center">
   <img src="https://github.com/XiaotongSophia/Evalue8/assets/126891685/a3ffabed-0692-407d-b9be-c4be51291a89" alt="Image" />
