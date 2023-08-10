@@ -7,7 +7,9 @@ https://github.com/kyechan99/capsule-render#fontcolor）
 # Project Overview
 
 ## Project Objectives
-Our current project involves creating a user-friendly "PACT front-end page" in the Evalue8 website, enabling seamless interaction with PACT functionality. The main objectives include enhancing emission transparency, integrating PACT standards, offering subscription-based access, implementing robust back-end calculations, integrating PACT API, improving reporting and data formatting, and enhancing overall UI/UX.
+Our project currently has the primary objective to increase the responsiveness of the front end of the Evalue8 website. Responsiveness in the context of web development means that the website should change to meet the user's environment (e.g. orientation, operating system, and size of the screen) and behaviour (highlighted button presses). However, due to our team's lack of experience in front end development we will need to upskill ourselves before we can work on the code itself. As such, we endeavour to learn the skills: Javascript, React, CSS, etc. 
+
+Additionally, we have discussed improving Evalue8’s ‘weekly report’ generation software. This is an optional objective which depends on if we have enough time.
 
 ## Our Client
 [Evalue8 Sustainability](https://evalue8.net/) passionately promotes sustainable practices worldwide. Its core mission empowers businesses, governments, and communities to adopt sustainability principles for economic growth, social equity, and environmental preservation. Evalue8 envisions a world where sustainability seamlessly integrates into every aspect of life, ensuring a thriving planet for future generations.
