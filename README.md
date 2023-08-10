@@ -68,7 +68,6 @@ In addition, we are using [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustain
 
 # Showcase
 ### Link to Code (Pending)
-### [Link to Code of Evalue8(Private)](https://github.com/orgs/Evalue8-Sustainability/dashboard)
 ### Link to Showcase Video (Pending)
 ### Link to Poster (Pending)
 
