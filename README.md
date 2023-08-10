@@ -31,13 +31,13 @@ Semester 2, 2023 (2023. 7 - 2023. 11)
 ## Team Members
 | Name | University ID | Role |
 |------|-------------- |-------|
-| June Hong | u6468401 |Spokesperson|
-| Liangyu Zuo | u6089294 |Spokesperson|
-| Xiaotong Wang	| u6169092 |Facilitator & Information officer|
-| Ahmed Mousawi	| u7112358 ||
-| Ping Zhang	| u7349032 ||
-| Weichai Zhang | u7574256 ||
-| Andrew Carse | u6666440 ||
+| June Hong | u6468401 |Spokesperson, front-end developer|
+| Liangyu Zuo | u6089294 |Spokesperson Front-end developer|
+| Xiaotong Wang	| u6169092 |Facilitator & Information officer, Front-end developer|
+| Ahmed Mousawi	| u7112358 |Project orgnising Back-end developer|
+| Ping Zhang	| u7349032 |Back-end developer|
+| Weichai Zhang | u7574256 |Back-End developer|
+| Andrew Carse | u6666440 |Full stack developer|
 
 ## Weekly Meeting Time
 | Date | Meeting |
