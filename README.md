@@ -64,7 +64,7 @@ Administrative tasks are archived in Google Drive.
 In addition, we are using [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustainability) for the task tracking tool.
 
 # Documentation
--[Statement of Work](https://docs.google.com/document/d/1vLCvxazm8hveO9fclDFmGM57D2WSUeT7b-dDjCVYsek/edit)
+#[Statement of Work](https://docs.google.com/document/d/1vLCvxazm8hveO9fclDFmGM57D2WSUeT7b-dDjCVYsek/edit)
 
 
 # Showcase
