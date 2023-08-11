@@ -56,13 +56,13 @@ Semester 2, 2023 (2023. 7 - 2023. 11)
 
 # Project Governance
 Administrative tasks are archived in Google Drive.
-- [Meeting Agendas and Minutes](https://drive.google.com/drive/u/1/folders/1ctvU13n61oRxL0zsmKxK7KGjFT_OAexA)
 - [Team Charter](https://docs.google.com/document/d/1eFOH073lsJKpBNkjCkdVotgen6hDgK0o/edit)
 - [Decision Log](https://docs.google.com/spreadsheets/d/1p-F-NeYhUXYOEVuqIj09LWQULxuGAvuY/edit#gid=1408635962)
-- [Reflection Log](https://docs.google.com/spreadsheets/d/1Jey_zPggqMkvg6l03qNJvx073QYTXdg0/edit#gid=471308671)
 - [Risk Management](https://docs.google.com/spreadsheets/d/1oPN_J-Vbq1--OqzmaIG4iO_LGeKn2n_5/edit#gid=187958210)
+- [Meeting Agendas and Minutes](https://drive.google.com/drive/u/1/folders/1ctvU13n61oRxL0zsmKxK7KGjFT_OAexA)
 - [Project Gantt Chart](https://docs.google.com/spreadsheets/d/1Xgt_FQqXLe4DtIXB7El_SP4wM-J_FE-I/edit#gid=542302743)
 - [Tutorial Agenda](https://drive.google.com/drive/folders/1vssyF_2Ekvf9RVM6IfMSI-EM8jT0dLno)
+- [Reflection Log](https://docs.google.com/spreadsheets/d/1Jey_zPggqMkvg6l03qNJvx073QYTXdg0/edit#gid=471308671)
 
 In addition, we are using [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustainability) for the task tracking tool.
 
