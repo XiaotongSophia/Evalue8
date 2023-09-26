@@ -64,7 +64,9 @@ Administrative tasks are archived in Google Drive.
 - [Tutorial Agenda](https://drive.google.com/drive/folders/1vssyF_2Ekvf9RVM6IfMSI-EM8jT0dLno)
 - [Reflection Log](https://docs.google.com/spreadsheets/d/1Jey_zPggqMkvg6l03qNJvx073QYTXdg0/edit#gid=471308671)
 
-In addition, we are using [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustainability) for the task tracking tool.
+# Task Tracking Tool
+Old version: [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustainability) 
+New version: [Jira](https://evalue8project.atlassian.net/jira/software/projects/EV/boards/1)
 
 # Documentation
 [Statement of Work](https://drive.google.com/drive/u/1/folders/1YzuXBhKG0K0QiBkUkkFYAEZeP1LjzRKC)
