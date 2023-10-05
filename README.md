@@ -73,7 +73,7 @@ Administrative tasks are archived in Google Drive.
 
 
 # Showcase
-### Link to Code (Pending)
+### Link to Code (Private)
 ### Link to Showcase Video (Pending)
 ### Link to Poster (Pending)
 ### [Link to Audit 2](https://docs.google.com/presentation/d/1K8nn1BFeMkqyD0IcOgkI8RJRW4GqH8q6xiqbIPEC6B0/edit#slide=id.p)
