@@ -57,7 +57,9 @@ Semester 2, 2023 (2023. 7 - 2023. 11)
 # Project Output
 
 
-https://github.com/XiaotongSophia/Evalue8/assets/126891685/7a693408-8450-44f3-a653-a1c86d903649
+
+https://github.com/XiaotongSophia/Evalue8/assets/126891685/763130bf-f04f-456d-81e5-3361e439e54e
+
 
 
 
