@@ -49,6 +49,11 @@ Semester 2, 2023 (2023. 7 - 2023. 11)
 <img width="800"  src="https://github.com/weichai1201/Image/blob/main/Screen%20Shot%202023-08-11%20at%202.10.13%20am.png">
 </p>
 
+### Stakeholder Analysis 
+<p align="center">
+<img width="800" alt="Screenshot 2023-08-10 at 2 16 54 PM" src="https://github.com/XiaotongSophia/Evalue8/assets/53648623/a5e43db0-4476-4fb8-a81e-433e517dc7f9">
+</p>
+
 # Project Output
 
 
@@ -56,10 +61,7 @@ https://github.com/XiaotongSophia/Evalue8/assets/126891685/7a693408-8450-44f3-a6
 
 
 
-### Stakeholder Analysis 
-<p align="center">
-<img width="800" alt="Screenshot 2023-08-10 at 2 16 54 PM" src="https://github.com/XiaotongSophia/Evalue8/assets/53648623/a5e43db0-4476-4fb8-a81e-433e517dc7f9">
-</p>
+
 
 # Project Governance
 Administrative tasks are archived in Google Drive.
