@@ -83,11 +83,11 @@ Administrative tasks are archived in Google Drive.
 - New version: [Jira](https://evalue8project.atlassian.net/jira/software/projects/EV/boards/1)
 
 # Documentation
+- Link to Code (Private)
 - [Statement of Work](https://drive.google.com/drive/u/1/folders/1YzuXBhKG0K0QiBkUkkFYAEZeP1LjzRKC)
 
 
 # Showcase
-- Link to Code (Private)
 - [Link to Showcase Video](https://www.youtube.com/watch?v=zbR6c4kINpw&t)
 - [Link to Poster](https://drive.google.com/drive/u/1/folders/1nVOc-Vw1grlE2dBTVU5wR-IvEBM4HGbv)
 
