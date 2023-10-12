@@ -74,22 +74,24 @@ Administrative tasks are archived in Google Drive.
 - [Project Gantt Chart](https://docs.google.com/spreadsheets/d/1Xgt_FQqXLe4DtIXB7El_SP4wM-J_FE-I/edit#gid=542302743)
 - [Tutorial Agenda](https://drive.google.com/drive/folders/1vssyF_2Ekvf9RVM6IfMSI-EM8jT0dLno)
 - [Reflection Log](https://docs.google.com/spreadsheets/d/1Jey_zPggqMkvg6l03qNJvx073QYTXdg0/edit#gid=471308671)
+- [Link to Tutorial Agenda](https://drive.google.com/drive/u/1/folders/1vssyF_2Ekvf9RVM6IfMSI-EM8jT0dLno)
+- [Link to Audit 2](https://docs.google.com/presentation/d/1K8nn1BFeMkqyD0IcOgkI8RJRW4GqH8q6xiqbIPEC6B0/edit#slide=id.p)
+- [Link to Audit 3](https://docs.google.com/presentation/d/1cx90pkXLfayThZihCh_iE_cdfBSZzo5bzVzOhCmc4XI/edit#slide=id.p)
 
 # Task Tracking Tool
 - Old version: [Trello](https://trello.com/b/NYl3iEmt/evalue8-sustainability) 
 - New version: [Jira](https://evalue8project.atlassian.net/jira/software/projects/EV/boards/1)
 
 # Documentation
-[Statement of Work](https://drive.google.com/drive/u/1/folders/1YzuXBhKG0K0QiBkUkkFYAEZeP1LjzRKC)
+- [Statement of Work](https://drive.google.com/drive/u/1/folders/1YzuXBhKG0K0QiBkUkkFYAEZeP1LjzRKC)
 
 
 # Showcase
-### Link to Code (Private)
-### [Link to Showcase Video](https://www.youtube.com/watch?v=zbR6c4kINpw&t)
-### [Link to Poster](https://drive.google.com/drive/u/1/folders/1nVOc-Vw1grlE2dBTVU5wR-IvEBM4HGbv)
-### [Link to Tutorial Agenda](https://drive.google.com/drive/u/1/folders/1vssyF_2Ekvf9RVM6IfMSI-EM8jT0dLno)
-### [Link to Audit 2](https://docs.google.com/presentation/d/1K8nn1BFeMkqyD0IcOgkI8RJRW4GqH8q6xiqbIPEC6B0/edit#slide=id.p)
-### [Link to Audit 3](https://docs.google.com/presentation/d/1cx90pkXLfayThZihCh_iE_cdfBSZzo5bzVzOhCmc4XI/edit#slide=id.p)
+- Link to Code (Private)
+- [Link to Showcase Video](https://www.youtube.com/watch?v=zbR6c4kINpw&t)
+- [Link to Poster](https://drive.google.com/drive/u/1/folders/1nVOc-Vw1grlE2dBTVU5wR-IvEBM4HGbv)
+
+
 
 
 
