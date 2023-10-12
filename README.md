@@ -74,8 +74,8 @@ Administrative tasks are archived in Google Drive.
 
 # Showcase
 ### Link to Code (Private)
-### Link to Showcase Video (Pending)
-### Link to Poster (Pending)
+### [Link to Showcase Video](https://www.youtube.com/watch?v=zbR6c4kINpw&t)
+### [Link to Poster](https://drive.google.com/drive/u/1/folders/1nVOc-Vw1grlE2dBTVU5wR-IvEBM4HGbv)
 ### [Link to Tutorial Agenda](https://drive.google.com/drive/u/1/folders/1vssyF_2Ekvf9RVM6IfMSI-EM8jT0dLno)
 ### [Link to Audit 2](https://docs.google.com/presentation/d/1K8nn1BFeMkqyD0IcOgkI8RJRW4GqH8q6xiqbIPEC6B0/edit#slide=id.p)
 ### [Link to Audit 3](https://docs.google.com/presentation/d/1cx90pkXLfayThZihCh_iE_cdfBSZzo5bzVzOhCmc4XI/edit#slide=id.p)
